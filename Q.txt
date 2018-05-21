@@ -1,0 +1,2 @@
+what is mapreduce.what is the differnce between hadoop and traditional RDBMS?
+
